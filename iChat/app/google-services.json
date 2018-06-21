@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "785809807766",
+    "firebase_url": "https://uitchat-b11b0.firebaseio.com",
+    "project_id": "uitchat-b11b0",
+    "storage_bucket": "uitchat-b11b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785809807766:android:4c2dc086bb96d454",
+        "android_client_info": {
+          "package_name": "com.example.thuyenbu.uitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785809807766-mfbelnfk9ksm4kdnma4o94lieati53jg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thuyenbu.uitchat",
+            "certificate_hash": "5dde069b32a363966b01a3951c69f644a9c494da"
+          }
+        },
+        {
+          "client_id": "785809807766-du0qup1b749gdurm2ajdhfmavt7a9ufa.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "785809807766-du0qup1b749gdurm2ajdhfmavt7a9ufa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_bgKkh6s66zZ3g2igqPvdi9zW_OjG81o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785809807766-du0qup1b749gdurm2ajdhfmavt7a9ufa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
