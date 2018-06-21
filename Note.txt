@@ -1,0 +1,6 @@
+Thông tin nhóm 2:
+	Nguy?n V?n Thuy?n - 13520873
+	Nguy?n Trung Hi?u - 13520273
+	Hu?nh Ng?c Pháp   - 13520599
+
+Link project: https://github.com/thuyenuit/iChat.git
