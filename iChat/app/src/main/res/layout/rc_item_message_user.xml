@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="5dp"
+    android:layout_marginTop="10dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imageView2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="5dp"
+        android:src="@drawable/default_avata" />
+
+    <TextView
+        android:id="@+id/textContentUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:layout_toStartOf="@id/imageView2"
+        android:background="@drawable/rounded_corner1"
+        android:minWidth="50dp"
+        android:paddingBottom="15dp"
+        android:paddingEnd="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingStart="10dp"
+        android:paddingTop="10dp"
+        android:text=""
+        android:textAlignment="inherit"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/txtTimeUser"
+        android:layout_width="41dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textContentUser"
+        android:layout_alignEnd="@+id/textContentUser"
+        android:layout_marginStart="48dp"
+        android:minWidth="20dp"
+        android:text=""
+        android:textColor="#fff"
+        android:textSize="10sp" />
+
+</RelativeLayout>
